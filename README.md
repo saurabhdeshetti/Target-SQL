@@ -13,7 +13,7 @@ This analysis encompasses various dimensions of the business, including order pr
 - `Dataset Schema.png`: To get the exact dataset schema used in this project.
 
 ## Usage
-- Clone the repository:
+- Clone the repository: https://github.com/saurabhdeshetti/Enhancing-Target-s-Operations-in-Brazil-with-SQL
 
 - Open the `Target SQL Reference doc.pdf` file to understand the dataset and project context.
 
